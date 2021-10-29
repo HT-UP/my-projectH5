@@ -1,4 +1,4 @@
-# vue-h5
+# vue-web
 
 ## Project setup
 ```
